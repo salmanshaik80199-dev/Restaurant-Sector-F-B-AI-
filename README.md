@@ -278,26 +278,7 @@ Potential enhancements for future versions:
 - [ ] Batch processing for multiple questions
 - [ ] Conversation history export
 
-## 📝 License
 
-This project is open source and available for educational and commercial use.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Support
-
-For issues, questions, or suggestions, please open an issue in the repository.
-
-## 🙏 Acknowledgments
-
-- Built with [LangChain](https://www.langchain.com/)
-- Powered by [Streamlit](https://streamlit.io/)
-- Uses [pandas](https://pandas.pydata.org/) for data manipulation
-
----
-
-**Built with ❤️ using Python, LangChain, and Streamlit**
 
 
