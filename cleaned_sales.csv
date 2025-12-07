@@ -1,0 +1,255 @@
+order_id,date,product,price,quantity,purchase_type,payment_method,manager,city
+10452,2022-07-11,fries,3.49,573.07,Online,Gift Card,Tom      Jackson,London
+10453,2022-07-11,beverages,2.95,745.76,Online,Gift Card,Pablo Perez,Madrid
+10454,2022-07-11,sides & other,4.99,200.4,In-store,Gift Card,Joao    Silva,Lisbon
+10455,2022-08-11,burgers,12.99,569.67,In-store,Credit Card,Walter Muller,Berlin
+10456,2022-08-11,chicken sandwiches,9.95,201.01,In-store,Credit Card,Walter Muller,Berlin
+10457,2022-08-11,fries,3.49,573.07,In-store,Credit Card,Remy    Monet,Paris
+10459,2022-08-11,sides & other,4.99,200.4,In-store,Credit Card,Walter Muller,Berlin
+10460,2022-09-11,burgers,12.99,554.27,In-store,Credit Card,Remy Monet,Paris
+10461,2022-09-11,chicken sandwiches,9.95,201.01,In-store,Credit Card,Remy Monet,Paris
+10462,2022-09-11,fries,3.49,573.07,In-store,Credit Card,Remy Monet,Paris
+10463,2022-09-11,beverages,2.95,677.97,In-store,Credit Card,Remy Monet,Paris
+10464,2022-09-11,sides & other,4.99,200.4,In-store,Credit Card,Remy     Monet,Paris
+10465,2022-10-11,burgers,12.99,554.27,In-store,Credit Card,Pablo Perez,Madrid
+10466,2022-10-11,chicken sandwiches,9.95,201.01,In-store,Credit Card,Pablo Perez,Madrid
+10467,2022-10-11,fries,3.49,573.07,In-store,Credit Card,Pablo Perez,Madrid
+10468,2022-10-11,beverages,2.95,677.97,In-store,Credit Card,Pablo Perez,Madrid
+10470,2022-11-11,burgers,12.99,554.27,In-store,Credit Card,Pablo Perez,Madrid
+10471,2022-11-11,chicken sandwiches,9.95,201.01,In-store,Credit Card,Pablo Perez,Madrid
+10472,2022-11-11,fries,3.49,630.37,In-store,Credit Card,Pablo   Perez,Madrid
+10473,2022-11-11,beverages,2.95,677.97,In-store,Credit Card,Pablo Perez,Madrid
+10474,2022-11-11,sides & other,4.99,200.4,In-store,Credit Card,Pablo Perez,Madrid
+10475,2022-12-11,burgers,12.99,523.48,In-store,Credit Card,Pablo Perez,Madrid
+10476,2022-12-11,chicken sandwiches,9.95,201.01,In-store,Credit Card,Pablo Perez,Madrid
+10477,2022-12-11,fries,3.49,630.37,In-store,Credit Card,Pablo  Perez,Madrid
+10478,2022-12-11,beverages,2.95,677.97,In-store,Credit Card,Pablo Perez,Madrid
+10479,2022-12-11,sides & other,4.99,200.4,In-store,Credit Card,Pablo    Perez,Madrid
+10480,,burgers,12.99,508.08,In-store,Credit Card,Pablo Perez,Madrid
+10481,,chicken sandwiches,9.95,201.01,In-store,Credit Card,Pablo Perez,Madrid
+10482,,fries,25.5,630.37,In-store,Credit Card,Joao Silva,Lisbon
+10486,,chicken sandwiches,29.05,201.01,In-store,Credit Card,Joao    Silva,Lisbon
+10487,,fries,3.49,630.37,In-store,Credit Card,Joao Silva,Lisbon
+10488,,beverages,2.95,677.97,In-store,Credit Card,Joao Silva,Lisbon
+10489,,sides & other,4.99,200.4,In-store,Credit Card,Pablo Perez,Madrid
+10490,,burgers,12.99,508.08,In-store,Credit Card,Pablo Perez,Madrid
+10491,,chicken sandwiches,9.95,201.01,In-store,Credit Card,Pablo Perez,Madrid
+10492,,fries,3.49,573.07,In-store,Credit Card,Pablo Perez,Madrid
+10493,,beverages,2.95,677.97,In-store,Credit Card,Pablo Perez,Madrid
+10494,,sides & other,4.99,200.4,In-store,Credit Card,Pablo Perez,Madrid
+10495,,burgers,12.99,508.08,In-store,Credit Card,Pablo Perez,Madrid
+10496,,chicken sandwiches,9.95,201.01,In-store,Credit Card,Pablo Perez,Madrid
+10497,,fries,3.49,573.07,In-store,Credit Card,Pablo Perez,Madrid
+10498,,beverages,2.95,677.97,Drive-thru,Credit Card,Pablo Perez,Madrid
+10499,,sides & other,4.99,200.4,Drive-thru,Credit Card,Pablo Perez,Madrid
+10500,,burgers,12.99,523.48,Drive-thru,Credit Card,Pablo Perez,Madrid
+10501,,chicken sandwiches,9.95,201.01,Drive-thru,Credit Card,Pablo Perez,Madrid
+10502,,fries,3.49,630.37,Drive-thru,Credit Card,Pablo Perez,Madrid
+10503,,beverages,2.95,677.97,Drive-thru,Credit Card,Pablo Perez,Madrid
+10504,,sides & other,4.99,200.4,Drive-thru,Credit Card,Pablo Perez,Madrid
+10505,,burgers,12.99,538.88,Drive-thru,Credit Card,Pablo Perez,Madrid
+10506,,chicken sandwiches,9.95,201.01,Drive-thru,Credit Card,Pablo Perez,Madrid
+10507,,fries,3.49,687.68,Drive-thru,Credit Card,Pablo Perez,Madrid
+10508,,beverages,2.95,677.97,Drive-thru,Credit Card,Pablo Perez,Madrid
+10509,,sides & other,4.99,200.4,Drive-thru,Credit Card,Pablo Perez,Madrid
+10510,,burgers,12.99,508.08,Drive-thru,Credit Card,Pablo Perez,Madrid
+10511,,chicken sandwiches,9.95,201.01,Drive-thru,Credit Card,Joao Silva,Lisbon
+10512,,fries,3.49,687.68,Drive-thru,Credit Card,Joao Silva,Lisbon
+10513,,beverages,2.95,677.97,Drive-thru,Cash,Joao Silva,Lisbon
+10514,,sides & other,4.99,200.4,Drive-thru,Cash,Joao Silva,Lisbon
+10515,,burgers,12.99,477.29,Drive-thru,Cash,Joao Silva,Lisbon
+10516,,chicken sandwiches,9.95,201.01,Drive-thru,Cash,Joao Silva,Lisbon
+10483,,beverages,2.95,677.97,In-store,Credit Card,Joao    Silva,Lisbon
+10484,,sides & other,4.99,200.4,In-store,Credit Card,Joao    Silva,Lisbon
+10485,,burgers,12.99,523.48,In-store,Credit Card,Joao    Silva,Lisbon
+10520,,burgers,12.99,492.69,Drive-thru,Cash,Remy Monet,Paris
+10521,,chicken sandwiches,9.95,201.01,Drive-thru,Cash,Remy Monet,Paris
+10522,,fries,3.49,687.68,Drive-thru,Cash,Remy Monet,Paris
+10523,,beverages,2.95,745.76,Drive-thru,Cash,Remy Monet,Paris
+10524,,sides & other,4.99,200.4,Drive-thru,Cash,Remy Monet,Paris
+10525,,burgers,12.99,461.89,Drive-thru,Cash,Remy Monet,Paris
+10526,,chicken sandwiches,9.95,201.01,Drive-thru,Cash,Remy Monet,Paris
+10527,,fries,3.49,687.68,Drive-thru,Cash,Remy Monet,Paris
+10528,,beverages,2.95,745.76,Drive-thru,Cash,Remy Monet,Paris
+10529,,sides & other,4.99,200.4,Drive-thru,Cash,Remy Monet,Paris
+10530,,burgers,12.99,477.29,Drive-thru,Cash,Remy Monet,Paris
+10531,,chicken sandwiches,9.95,201.01,Drive-thru,Cash,Remy Monet,Paris
+10532,,fries,3.49,687.68,Drive-thru,Cash,Joao Silva,Lisbon
+10533,,beverages,2.95,745.76,Drive-thru,Cash,Joao Silva,Lisbon
+10534,,sides & other,4.99,200.4,Drive-thru,Cash,Pablo Perez,Madrid
+10535,,burgers,12.99,477.29,Drive-thru,Credit Card,Pablo Perez,Madrid
+10536,,chicken sandwiches,9.95,201.01,Drive-thru,Credit Card,Pablo Perez,Madrid
+10540,,burgers,12.99,461.89,Drive-thru,Credit Card,Pablo Perez,Madrid
+10541,,chicken sandwiches,9.95,201.01,Drive-thru,Credit Card,Tom Jackson,London
+10542,,fries,3.49,630.37,Drive-thru,Credit Card,Tom Jackson,London
+10543,,beverages,2.95,745.76,Drive-thru,Credit Card,Tom Jackson,London
+10544,,sides & other,4.99,200.4,Drive-thru,Credit Card,Tom Jackson,London
+10545,,burgers,12.99,446.5,Drive-thru,Credit Card,Tom Jackson,London
+10546,,chicken sandwiches,9.95,201.01,Drive-thru,Credit Card,Tom Jackson,London
+10547,,fries,3.49,630.37,Drive-thru,Credit Card,Tom Jackson,London
+10548,,beverages,2.95,745.76,Drive-thru,Credit Card,Tom Jackson,London
+10549,,sides & other,4.99,200.4,Drive-thru,Credit Card,Tom Jackson,London
+10550,,burgers,12.99,461.89,Drive-thru,Credit Card,Tom Jackson,London
+10551,,chicken sandwiches,9.95,201.01,Drive-thru,Credit Card,Tom Jackson,London
+10552,,fries,3.49,630.37,Online,Credit Card,Tom Jackson,London
+10553,,beverages,2.95,745.76,Online,Credit Card,Tom Jackson,London
+10554,,sides & other,4.99,200.4,Online,Credit Card,Tom Jackson,London
+10555,,burgers,12.99,477.29,Online,Credit Card,Tom Jackson,London
+10556,,chicken sandwiches,9.95,201.01,Online,Credit Card,Tom Jackson,London
+10557,,fries,3.49,630.37,Online,Credit Card,Tom Jackson,London
+10558,,beverages,2.95,677.97,Online,Credit Card,Tom Jackson,London
+10559,,sides & other,4.99,200.4,Online,Credit Card,Tom Jackson,London
+10560,,burgers,12.99,477.29,Online,Credit Card,Tom Jackson,London
+10561,,chicken sandwiches,9.95,201.01,Online,Credit Card,Tom Jackson,London
+10562,,fries,3.49,630.37,Online,Credit Card,Tom Jackson,London
+10563,,beverages,2.95,677.97,Online,Credit Card,Tom Jackson,London
+10564,,sides & other,4.99,200.4,Online,Credit Card,Tom Jackson,London
+10565,,burgers,12.99,492.69,Online,Credit Card,Tom Jackson,London
+10566,,chicken sandwiches,9.95,201.01,Online,Credit Card,Tom Jackson,London
+10567,,fries,3.49,630.37,Online,Credit Card,Tom Jackson,London
+10568,,beverages,2.95,677.97,Online,Credit Card,Tom Jackson,London
+10569,,sides & other,4.99,200.4,Online,Credit Card,Tom Jackson,London
+10570,2022-01-12,burgers,12.99,492.69,Online,Credit Card,Tom Jackson,London
+10571,2022-01-12,chicken sandwiches,9.95,201.01,Online,Credit Card,Tom Jackson,London
+10572,2022-01-12,fries,3.49,573.07,Online,Credit Card,Remy Monet,Paris
+10573,2022-01-12,beverages,2.95,677.97,Online,Credit Card,Remy Monet,Paris
+10574,2022-01-12,sides & other,4.99,200.4,Online,Credit Card,Remy Monet,Paris
+10575,2022-02-12,burgers,12.99,523.48,Online,Credit Card,Remy Monet,Paris
+10576,2022-02-12,chicken sandwiches,9.95,201.01,Online,Credit Card,Remy Monet,Paris
+10577,2022-02-12,fries,3.49,630.37,Online,Credit Card,Remy Monet,Paris
+10578,2022-02-12,beverages,2.95,677.97,Online,Credit Card,Remy Monet,Paris
+10579,2022-02-12,sides & other,4.99,200.4,Online,Credit Card,Remy Monet,Paris
+10580,2022-03-12,burgers,12.99,523.48,Online,Credit Card,Remy Monet,Paris
+10581,2022-03-12,chicken sandwiches,9.95,201.01,Online,Credit Card,Remy Monet,Paris
+10582,2022-03-12,fries,3.49,630.37,Online,Credit Card,Tom Jackson,London
+10583,2022-03-12,beverages,2.95,677.97,Online,Credit Card,Tom Jackson,London
+10584,2022-03-12,sides & other,4.99,200.4,Online,Credit Card,Tom Jackson,London
+10585,2022-04-12,burgers,12.99,538.88,Online,Credit Card,Tom Jackson,London
+10586,2022-04-12,chicken sandwiches,9.95,201.01,Online,Credit Card,Tom Jackson,London
+10537,,fries,3.49,630.37,Drive-thru,Credit Card,Pablo Perez,Madrid
+10538,,beverages,2.95,745.76,Drive-thru,Credit Card,Pablo Perez,Madrid
+10539,,sides & other,4.99,200.4,Drive-thru,Credit Card,Pablo Perez,Madrid
+10590,2022-05-12,burgers,12.99,554.27,Online,Credit Card,Tom Jackson,London
+10591,2022-05-12,chicken sandwiches,9.95,201.01,Online,Credit Card,Tom Jackson,London
+10592,2022-05-12,fries,3.49,573.07,Online,Credit Card,Tom Jackson,London
+10593,2022-05-12,beverages,2.95,677.97,Online,Credit Card,Tom Jackson,London
+10594,2022-05-12,sides & other,4.99,200.4,Online,Credit Card,Tom Jackson,London
+10595,2022-06-12,burgers,12.99,538.88,Online,Credit Card,Tom Jackson,London
+10596,2022-06-12,chicken sandwiches,9.95,201.01,Online,Credit Card,Tom Jackson,London
+10597,2022-06-12,fries,3.49,573.07,Online,Credit Card,Tom Jackson,London
+10598,2022-06-12,beverages,2.95,677.97,Online,Credit Card,Tom Jackson,London
+10599,2022-06-12,sides & other,4.99,200.4,Online,Credit Card,Tom Jackson,London
+10600,2022-07-12,burgers,12.99,523.48,Online,Credit Card,Tom Jackson,London
+10601,2022-07-12,chicken sandwiches,9.95,201.01,Online,Credit Card,Tom Jackson,London
+10602,2022-07-12,fries,3.49,630.37,Online,Cash,Tom Jackson,London
+10603,2022-07-12,beverages,2.95,677.97,Online,Cash,Tom Jackson,London
+10604,2022-07-12,sides & other,4.99,200.4,Online,Cash,Tom Jackson,London
+10605,2022-08-12,burgers,12.99,538.88,Online,Cash,Tom Jackson,London
+10606,2022-08-12,chicken sandwiches,9.95,201.01,Online,Cash,Tom Jackson,London
+10607,2022-08-12,fries,3.49,630.37,Online,Cash,Tom Jackson,London
+10608,2022-08-12,beverages,2.95,677.97,Online,Gift Card,Tom Jackson,London
+10609,2022-08-12,sides & other,4.99,200.4,Online,Gift Card,Tom Jackson,London
+10610,2022-09-12,burgers,12.99,569.67,Online,Gift Card,Tom Jackson,London
+10611,2022-09-12,chicken sandwiches,9.95,201.01,Online,Gift Card,Tom Jackson,London
+10612,2022-09-12,fries,3.49,630.37,Online,Gift Card,Tom Jackson,London
+10613,2022-09-12,beverages,2.95,677.97,Online,Gift Card,Tom Jackson,London
+10614,2022-09-12,sides & other,4.99,200.4,Online,Gift Card,Tom Jackson,London
+10615,2022-10-12,burgers,12.99,569.67,Online,Gift Card,Tom Jackson,London
+10616,2022-10-12,chicken sandwiches,9.95,201.01,Online,Gift Card,Tom Jackson,London
+10617,2022-10-12,fries,3.49,630.37,Online,Gift Card,Tom Jackson,London
+10618,2022-10-12,beverages,2.95,677.97,Online,Gift Card,Tom Jackson,London
+10619,2022-10-12,sides & other,4.99,200.4,Online,Gift Card,Tom Jackson,London
+10620,2022-11-12,burgers,12.99,585.07,Online,Gift Card,Tom Jackson,London
+10621,2022-11-12,chicken sandwiches,9.95,201.01,Online,Gift Card,Tom Jackson,London
+10622,2022-11-12,fries,3.49,630.37,Online,Gift Card,Tom Jackson,London
+10623,2022-11-12,beverages,2.95,745.76,Online,Gift Card,Tom Jackson,London
+10624,2022-11-12,sides & other,4.99,200.4,Online,Gift Card,Tom Jackson,London
+10625,2022-12-12,burgers,12.99,569.67,Online,Gift Card,Tom Jackson,London
+10626,2022-12-12,chicken sandwiches,9.95,201.01,Online,Gift Card,Tom Jackson,London
+10627,2022-12-12,fries,3.49,630.37,Online,Gift Card,Tom Jackson,London
+10628,2022-12-12,beverages,2.95,677.97,Online,Gift Card,Joao Silva,Lisbon
+10629,2022-12-12,sides & other,4.99,200.4,Online,Gift Card,Joao Silva,Lisbon
+10630,,burgers,12.99,569.67,Online,Cash,Joao Silva,Lisbon
+10631,,chicken sandwiches,9.95,201.01,Online,Gift Card,Joao Silva,Lisbon
+10632,,fries,3.49,630.37,Online,Gift Card,Joao Silva,Lisbon
+10633,,beverages,2.95,677.97,Online,Gift Card,Joao Silva,Lisbon
+10634,,sides & other,4.99,200.4,Online,Gift Card,Joao Silva,Lisbon
+10635,,burgers,12.99,554.27,Online,Gift Card,Joao Silva,Lisbon
+10636,,chicken sandwiches,9.95,221.11,Online,Gift Card,Joao Silva,Lisbon
+10637,,fries,3.49,630.37,Online,Gift Card,Joao Silva,Lisbon
+10638,,beverages,2.95,677.97,Online,Gift Card,Joao Silva,Lisbon
+10639,,sides & other,4.99,200.4,Online,Gift Card,Joao Silva,Lisbon
+10640,,burgers,12.99,538.88,Online,Gift Card,Joao Silva,Lisbon
+10641,,chicken sandwiches,9.95,221.11,Online,Gift Card,Joao Silva,Lisbon
+10642,,fries,3.49,630.37,Online,Cash,Joao Silva,Lisbon
+10643,,beverages,2.95,677.97,Online,Cash,Joao Silva,Lisbon
+10644,,sides & other,4.99,200.4,Online,Cash,Joao Silva,Lisbon
+10645,,burgers,12.99,569.67,Online,Cash,Joao Silva,Lisbon
+10646,,chicken sandwiches,9.95,221.11,Online,Cash,Joao Silva,Lisbon
+10647,,fries,3.49,630.37,Online,Gift Card,Joao Silva,Lisbon
+10648,,beverages,2.95,745.76,Online,Gift Card,Joao Silva,Lisbon
+10649,,sides & other,4.99,200.4,Online,Gift Card,Joao Silva,Lisbon
+10650,,burgers,12.99,585.07,Online,Gift Card,Joao Silva,Lisbon
+10651,,chicken sandwiches,9.95,221.11,Online,Gift Card,Joao Silva,Lisbon
+10652,,fries,3.49,687.68,Online,Gift Card,Joao Silva,Lisbon
+10653,,beverages,2.95,745.76,Online,Gift Card,Joao Silva,Lisbon
+10654,,sides & other,4.99,200.4,Online,Gift Card,Joao Silva,Lisbon
+10655,,burgers,12.99,600.46,Online,Gift Card,Joao Silva,Lisbon
+10656,,chicken sandwiches,9.95,221.11,Online,Gift Card,Joao Silva,Lisbon
+10657,,fries,3.49,687.68,Online,Gift Card,Joao Silva,Lisbon
+10658,,beverages,2.95,745.76,Online,Cash,Joao Silva,Lisbon
+10659,,sides & other,4.99,200.4,Online,Cash,Joao Silva,Lisbon
+10660,,burgers,12.99,631.25,In-store,Cash,Joao Silva,Lisbon
+10661,,chicken sandwiches,9.95,221.11,In-store,Cash,Joao Silva,Lisbon
+10662,,fries,3.49,630.37,In-store,Cash,Joao Silva,Lisbon
+10663,,beverages,2.95,745.76,In-store,Cash,Joao Silva,Lisbon
+10664,,sides & other,4.99,200.4,In-store,Cash,Joao Silva,Lisbon
+10665,,burgers,12.99,646.65,In-store,Cash,Joao Silva,Lisbon
+10666,,chicken sandwiches,9.95,221.11,In-store,Cash,Joao Silva,Lisbon
+10667,,fries,3.49,630.37,In-store,Cash,Joao Silva,Lisbon
+10668,,beverages,2.95,745.76,In-store,Cash,Joao Silva,Lisbon
+10669,,sides & other,4.99,200.4,In-store,Cash,Joao Silva,Lisbon
+10670,,burgers,12.99,677.44,In-store,Cash,Joao Silva,Lisbon
+10671,,chicken sandwiches,9.95,221.11,In-store,Cash,Joao Silva,Lisbon
+10672,,fries,3.49,630.37,In-store,Cash,Joao Silva,Lisbon
+10673,,beverages,2.95,745.76,In-store,Cash,Joao Silva,Lisbon
+10674,,sides & other,4.99,200.4,In-store,Cash,Joao Silva,Lisbon
+10675,,burgers,12.99,677.44,In-store,Cash,Joao Silva,Lisbon
+10676,,chicken sandwiches,9.95,241.21,In-store,Cash,Joao Silva,Lisbon
+10677,,fries,3.49,630.37,In-store,Cash,Joao Silva,Lisbon
+10678,,beverages,2.95,745.76,In-store,Cash,Joao Silva,Lisbon
+10679,,sides & other,4.99,200.4,In-store,Cash,Joao Silva,Lisbon
+10680,,burgers,12.99,646.65,In-store,Cash,Joao Silva,Lisbon
+10681,,chicken sandwiches,9.95,241.21,In-store,Cash,Joao Silva,Lisbon
+10682,,fries,3.49,630.37,In-store,Cash,Joao Silva,Lisbon
+10683,,beverages,2.95,677.97,In-store,Cash,Joao Silva,Lisbon
+10684,,sides & other,4.99,200.4,In-store,Cash,Joao Silva,Lisbon
+10685,,burgers,12.99,677.44,In-store,Cash,Joao Silva,Lisbon
+10686,,chicken sandwiches,9.95,241.21,In-store,Cash,Joao Silva,Lisbon
+10687,,fries,3.49,630.37,In-store,Cash,Walter Muller,Berlin
+10688,,beverages,2.95,677.97,In-store,Cash,Walter Muller,Berlin
+10689,,sides & other,4.99,200.4,In-store,Cash,Walter Muller,Berlin
+10690,,burgers,12.99,677.44,In-store,Cash,Walter Muller,Berlin
+10691,,chicken sandwiches,9.95,261.31,In-store,Cash,Walter Muller,Berlin
+10692,,fries,3.49,630.37,In-store,Cash,Walter Muller,Berlin
+10693,,beverages,2.95,677.97,In-store,Cash,Walter Muller,Berlin
+10694,,sides & other,4.99,200.4,In-store,Cash,Walter Muller,Berlin
+10695,,burgers,12.99,692.84,In-store,Cash,Walter Muller,Berlin
+10696,,chicken sandwiches,9.95,281.41,In-store,Cash,Walter Muller,Berlin
+10697,,fries,3.49,630.37,In-store,Cash,Walter Muller,Berlin
+10698,,beverages,2.95,677.97,In-store,Cash,Walter Muller,Berlin
+10699,,sides & other,4.99,200.4,In-store,Cash,Walter Muller,Berlin
+10700,,burgers,12.99,692.84,In-store,Cash,Walter Muller,Berlin
+10701,,chicken sandwiches,9.95,281.41,In-store,Cash,Walter Muller,Berlin
+10702,,fries,3.49,630.37,In-store,Cash,Walter Muller,Berlin
+10703,,beverages,2.95,677.97,In-store,Gift Card,Walter Muller,Berlin
+10704,,sides & other,4.99,200.4,Drive-thru,Gift Card,Walter Muller,Berlin
+10705,,burgers,12.99,723.63,Drive-thru,Gift Card,Walter Muller,Berlin
+10706,,chicken sandwiches,9.95,301.51,Drive-thru,Gift Card,Walter Muller,Berlin
+10707,,fries,3.49,630.37,Drive-thru,Gift Card,Walter Muller,Berlin
+10708,,beverages,2.95,677.97,Drive-thru,Gift Card,Walter Muller,Berlin
+10709,,sides & other,4.99,200.4,Drive-thru,Gift Card,Walter Muller,Berlin
+10710,,burgers,12.99,754.43,Drive-thru,Gift Card,Walter Muller,Berlin
+10711,,chicken sandwiches,9.95,281.41,Drive-thru,Gift Card,Walter Muller,Berlin
+10712,,fries,3.49,630.37,Drive-thru,Gift Card,Walter Muller,Berlin
+10713,,beverages,2.95,677.97,Drive-thru,Gift Card,Walter Muller,Berlin
