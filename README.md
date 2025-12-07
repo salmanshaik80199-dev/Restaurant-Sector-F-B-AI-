@@ -2,6 +2,24 @@
 
 A complete Python application for analyzing restaurant sales data using LangChain and Streamlit. This AI-powered assistant helps restaurant owners and managers gain insights from their sales data through natural language queries.
 
+## 📸 Screenshots
+
+### Upload and Clean Data
+![Upload and Clean Data](screenshots\Data-Upload.png)
+*Upload your CSV file and preview the raw data before cleaning*
+
+### Cleaning Summary
+![Cleaning Summary](screenshots\Data-clean.png)
+*View detailed cleaning statistics and steps performed on your data*
+
+### Chat Assistant
+![Chat Assistant](screenshots/Chat-interface.png)
+*Ask natural language questions about your restaurant sales data*
+
+### Data Preview
+![Data Preview](screenshots/Data_preview.png)
+*Explore cleaned data with column information and statistics*
+
 ## 📋 Features
 
 - **Data Cleaning Module**: Automatically cleans uploaded CSV files by removing duplicates, handling missing values, fixing data types, standardizing dates, and normalizing ingredient fields
@@ -130,6 +148,11 @@ Resturant-application/
 ├── .env                             # Environment variables (create this)
 ├── .env.example                     # Example environment variables file
 ├── .gitignore                       # Git ignore file
+├── screenshots/                     # Screenshot images (create this folder)
+│   ├── upload_clean.png
+│   ├── cleaning_summary.png
+│   ├── chat_assistant.png
+│   └── data_preview.png
 └── cleaned_sales.csv                # Output file (generated after cleaning)
 ```
 
@@ -224,6 +247,19 @@ The notebook includes:
 - `python-dotenv>=1.0.0` - Environment variable management
 - `ollama>=0.1.0` - Local LLM support
 - `tabulate>=0.9.0` - Table formatting
+
+## 📷 Adding Screenshots
+
+To add screenshots to this README:
+
+1. Create a `screenshots` folder in the project root
+2. Save your screenshots with these names:
+   - `upload_clean.png` - Upload and Clean Data interface
+   - `cleaning_summary.png` - Cleaning Summary page
+   - `chat_assistant.png` - Chat Assistant interface
+   - `data_preview.png` - Data Preview tab
+
+3. The images will automatically display in the Screenshots section above
 
 ## 🚀 Future Improvements
 
