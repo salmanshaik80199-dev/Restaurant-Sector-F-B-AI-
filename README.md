@@ -5,11 +5,11 @@ A complete Python application for analyzing restaurant sales data using LangChai
 ## 📸 Screenshots
 
 ### Upload and Clean Data
-![Upload and Clean Data](screenshots\Data-Upload.png)
+![Upload and Clean Data](screenshots/Data-Upload.png)
 *Upload your CSV file and preview the raw data before cleaning*
 
 ### Cleaning Summary
-![Cleaning Summary](screenshots\Data-clean.png)
+![Cleaning Summary](screenshots/Data-clean.png)
 *View detailed cleaning statistics and steps performed on your data*
 
 ### Chat Assistant
@@ -17,7 +17,7 @@ A complete Python application for analyzing restaurant sales data using LangChai
 *Ask natural language questions about your restaurant sales data*
 
 ### Data Preview
-![Data Preview](screenshots/Data_preview.png)
+![Data Preview](screenshots/Data-preview.png)
 *Explore cleaned data with column information and statistics*
 
 ## 📋 Features
@@ -299,4 +299,5 @@ For issues, questions, or suggestions, please open an issue in the repository.
 ---
 
 **Built with ❤️ using Python, LangChain, and Streamlit**
+
 
